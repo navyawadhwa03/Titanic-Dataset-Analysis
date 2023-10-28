@@ -38,3 +38,7 @@ The following Python libraries are utilized in this analysis:
 - Seaborn
 - Scikit-Learn
 
+
+## Results
+
+The summary and results can be found in documents and results folder respectively.
